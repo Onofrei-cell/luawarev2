@@ -6,5 +6,5 @@ function load(link)
 end
 
 if game.PlaceId == 286090429 then
-    load("link")
+    load("https://raw.githubusercontent.com/lua-ware/luawarev2/main/Scripts/Arsenal.lua")
 end
