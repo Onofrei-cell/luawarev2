@@ -1,4 +1,8 @@
 # luawarev2
 ```lua
-print("Luaware V2 | Github
+if game.Players.LocalPlayer.Name ~= "mattyeast" then
+    print("Luaware V2 | Github")
+else
+    print("Fuck off")
+end
 ```
