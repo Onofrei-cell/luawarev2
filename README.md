@@ -1,2 +1,4 @@
 # luawarev2
-Luaware V2 Roblox Script Hub
+```lua
+print("Luaware V2 | Github
+```
