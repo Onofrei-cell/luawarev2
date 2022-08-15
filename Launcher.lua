@@ -1,6 +1,3 @@
--- Why are you looking at the launcher
-_G.Luaware = true
-
 function load(link)
     loadstring(game:HttpGet((link),true))()
 end
