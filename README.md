@@ -7,6 +7,7 @@ loadstring(game:HttpGet(("https://raw.githubusercontent.com/lua-ware/luawarev2/m
 # Supported Games
 - Arsenal
 - Destruction Simulator
+- Broken Bones IV
 - More in Full Release
 # Notes
 The full release will happen eventually, don't worry
