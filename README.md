@@ -1,5 +1,5 @@
 # Luaware V2
-Welcome to Luaware V2, if you're looking for the source code then you're out of luck, but I use the shittiest obfuscator so have fun I guess
+Welcome to Luaware V2, if you're looking for the source code then you're out of luck, but I use the boronide obfuscator so have fun I guess
 # Loadstring
 ```lua
 loadstring(game:HttpGet(("https://raw.githubusercontent.com/lua-ware/luawarev2/main/Launcher.lua"),true))()
